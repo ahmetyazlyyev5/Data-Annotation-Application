@@ -1,3 +1,7 @@
+"""
+Solution to the Google Docs challenge from the Data Annotation Application
+"""
+
 import urllib.request
 from bs4 import BeautifulSoup
 
